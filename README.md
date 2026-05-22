@@ -19,8 +19,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [https://github.com/BoCode-BM/stats-preview-card-component-main]
-- Live Site URL: [https://bocode-bm.github.io/stats-preview-card-component-main/]
+- Solution URL: [https://github.com/BoCode-BM/profile-card-component-main/]
+- Live Site URL: [https://modev228.github.io/profile-card-component-main/]
 
 ## My process
 
